@@ -1,0 +1,10 @@
+{
+  "Author": "Caraxi",
+  "Name": "AllowDebug",
+  "Description": "Allow debuggers to attach to ffxiv",
+  "InternalName": "AllowDebug",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 1
+}
