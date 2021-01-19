@@ -4,7 +4,7 @@
   "Description": "Allow debuggers to attach to ffxiv",
   "InternalName": "AllowDebug",
   "AssemblyVersion": "1.0.0.0",
-  "RepoUrl": "",
+  "RepoUrl": "https://github.com/Caraxi/AllowDebug",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 2
 }
